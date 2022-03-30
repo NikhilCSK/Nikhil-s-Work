@@ -1,0 +1,55 @@
+#welcome{
+    background-color:aquamarine;
+    text-align: center;
+}
+
+#games
+{
+    background: blue;
+}
+
+#apps
+{
+    background: rgb(28, 228, 118);
+}
+
+body{
+    text-align: center;
+}
+
+#chatbots{
+    background:rgb(141, 100, 12);
+}
+
+.line{
+    width: 200px;
+    height: 6px;
+    background-color: black;
+    margin:8px auto;
+}
+
+#nikhil{
+width: 250px;
+}
+
+p{
+    font-size: 25px;
+}
+
+#mycarousel img{
+  height: 300px;
+}
+
+.carousel-inner p{
+    font-size: 25px;
+    color: white;
+}
+
+#games h3{
+    color: white;
+    font-size: 30px;
+}
+
+#games h1{
+    color: lightgreen;
+}
